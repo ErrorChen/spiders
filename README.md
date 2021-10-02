@@ -1,0 +1,5 @@
+# spiders
+爬视频网站用的一些爬虫
+down_list与more是专门爬B站的，其中down_list是从其它人的代码借鉴过来的more是自己写的
+one.py主要是用于爬b站的，但也可爬一些其它网站
+三个代码都是基于you_get进行封装的，具体支持与配置可自行搜索（bushi
